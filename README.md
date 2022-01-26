@@ -4,6 +4,5 @@ Only the data preparation and exploration process is shown.
 
 ![img.png](image/img.png)
 
-Seoul Rental Bike Data Preparation and Exploration:
-
-Code : 
+[Seoul Rental Bike Data Preparation and Exploration] (Data Preparation and Exploration.md)
+[Code] (Data preparation and exploration code.ipynb)
