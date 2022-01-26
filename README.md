@@ -1,2 +1,9 @@
 # Seoul-Bike
-This is part of a project I did for my course. It looks into the Seoul Rental Bike data. 
+This is a part of a project I did for my course, using the Seoul Rental Bike System. 
+Only the data preparation and exploration process is shown. 
+
+![img.png](image/img.png)
+
+Seoul Rental Bike Data Preparation and Exploration:
+
+Code : 
