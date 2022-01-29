@@ -2,6 +2,10 @@
 This is a part of a project I did for my course, using the Seoul Rental Bike System. 
 Only the data preparation and exploration process is shown. 
 
+## Purpose
+The purpose of this project is to understand the behavior of Seoul Rental Bike user. 
+This is a step taken before conducting prediction.
+
 Data Source :http://data.seoul.go.kr/
 SOUTH KOREA PUBLIC HOLIDAYS. URL: publicholidays.go.kr
 
